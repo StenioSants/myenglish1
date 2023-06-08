@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My English</string>
+    <string name="user">Usuário</string>
+    <string name="Email">Email</string>
+    <string name="email">Email</string>
+    <string name="senhaa">Senha</string>
+    <string name="senha">***********</string>
+    <string name="remember">Lembrar-me?</string>
+    <string name="loguin">Entrar</string>
+    <string name="resister">Cadastrar</string>
+    <string name="password">Senha</string>
+    <string name="password_stars">***********</string>
+    <string name="remember_password">Esquecei minha senha</string>
+    <string name="dev">Desenvolvido por stenio.dev@gmail.com</string>
+    <string name="version">1.0.0</string>
+    <string name="icon_audio_book">Audio Book</string>
+    <string name="flashCards">Flash Cards</string>
+    <string name="essentialWords">Essential Words</string>
+    <string name="audioBooks">Audio Books</string>
+    <string name="textReader">Text Reader</string>
+    <string name="repete">10 mim \n NOVAMENTE</string>
+</resources>
